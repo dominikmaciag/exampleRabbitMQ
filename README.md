@@ -1,5 +1,3 @@
-# Wersja 3. Po rozwiązaniu Zadania 1.
-
 ### Students Application
 **Pobieranie listy studentów** - GET *http://localhost:8080/students*
 
